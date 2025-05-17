@@ -8,8 +8,6 @@ exp = input("請輸入指數:")
 
 res = power(base, exp)    
 
-
-
 def testFn():
   for num in range(10):
     print('num', num)
